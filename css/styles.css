@@ -25,6 +25,10 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+.img {
+  width: 200px;
+  height: 200px;
+}
 .footer {
   margin-top: 5%;
   color: white;
